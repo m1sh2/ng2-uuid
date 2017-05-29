@@ -6,11 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1sh2/ng2-selecting.git"
+  },
   "keywords": [
     "uuid",
     "angular2",
     "ng2"
   ],
+  "bugs": {
+    "url": "https://github.com/m1sh2/ng2-selecting/issues"
+  },
+  "homepage": "https://github.com/m1sh2/ng2-selecting#readme",
   "author": "Mike Datsko <mike@datsko.it> (http://datsko.it)",
   "license": "ISC"
 }
