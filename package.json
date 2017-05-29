@@ -1,0 +1,16 @@
+{
+  "name": "ng2-uuid",
+  "version": "0.0.2",
+  "description": "UUID module for Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uuid",
+    "angular2",
+    "ng2"
+  ],
+  "author": "Mike Datsko <mike@datsko.it> (http://datsko.it)",
+  "license": "ISC"
+}
